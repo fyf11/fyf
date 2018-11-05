@@ -1,0 +1,22 @@
+/* pages/index/index.wxss */
+.tex{
+  width: 700rpx;
+  height: 350rpx;
+  margin-left: 25rpx;
+  margin-top: 10rpx;
+}
+.titl{
+  width: 700rpx;
+  height: 100rpx;
+}
+.ima{
+  width: 700rpx;
+  height: 300rpx;
+}
+.inter{
+  width: 700rpx;
+  height: 30rpx;
+  font-size:15px;
+  color:#C0BDBD;
+  margin-top: 10rpx;
+}
